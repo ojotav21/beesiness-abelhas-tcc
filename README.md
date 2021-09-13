@@ -15,7 +15,7 @@
 <h2 align="center" id="#objetivo">Objetivo</h2>
     <p align="center">Reformulação da página introdutória a Educação Ambiental e, explicação do BEE no nome da Startup</p>
 <br>
-   <a href="https://ojotav21.github.io/beesiness-educacao-financeira-tcc/" target="_blank"><img src="https://user-images.githubusercontent.com/60045344/133082833-243062b4-b050-4c7b-a800-29db0542164b.png"/ </a>
+   <a href="https://ojotav21.github.io/beesiness-abelhas-tcc/" target="_blank"><img src="https://user-images.githubusercontent.com/60045344/133082833-243062b4-b050-4c7b-a800-29db0542164b.png"/ </a>
    
 <h2 align="center" id="#equipe-beesiness">Equipe Beesiness</h2>
    <p align="center" Eduardo Costa de Oliveira</p>
@@ -31,5 +31,5 @@
 </ul>
 <br>
 <h1  id="verOSite"align="center">
-<a href="https://ojotav21.github.io/beesiness-educacao-financeira-tcc/" target="_blank">Clique aqui para acessar!</a></h1>
+<a href="https://ojotav21.github.io/beesiness-abelhas-tcc/" target="_blank">Clique aqui para acessar!</a></h1>
 <br>
